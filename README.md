@@ -2,7 +2,8 @@
 This is actually one of my freelance project site, built for an artiste. However, it can also be used for any sort of campaign promotions or any others that you may think of. It is written with basic HTML, CSS and JS with jQuery library. The template, however, is build with PHP utilising the **include** function, hence the .php extensions. 
 
 Note 1: I did use 2 3rd-party jQuery plugins to speed up my development, mainly for responsive slider controls and popup modals.
-Note 2: All the photograph images used in this site (not counting the site faux logo) are sourced from [Pexels.com - Best free stock photos in one place](http://www.pexels.com/).
+
+Note 2: All the photograph images used in this site (not counting the site faux logo) are sourced from **[Pexels.com - Best free stock photos in one place](http://www.pexels.com/)**.
 
 ## Preview
 
