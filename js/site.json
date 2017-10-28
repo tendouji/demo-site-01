@@ -1,0 +1,139 @@
+{
+  "home": {
+    "testimonial" : [{"message": "Curabitur non augue velit. Nulla convallis felis id placerat hendrerit. Sed ut posuere sapien. Ut orci neque, maximus in cursus quis, vulputate sed est. Proin id massa purus. Morbi ornare facilisis lobortis. Sed risus nunc, tempor at convallis sit amet, tincidunt id velit. Maecenas tempus viverra nulla ac feugiat. Vestibulum quis felis molestie dolor pellentesque faucibus ac non neque. Donec in urna ligula.", 
+                      "quoter": "John Doe, Artistic Director of<br>Integer Studio"},
+                    {"message": "Integer ultrices volutpat ante, a egestas augue pulvinar sit amet. Maecenas ornare urna vitae mi feugiat scelerisque. Quisque purus magna, pellentesque sit amet placerat et, commodo quis ante. Aenean sed magna ac nibh maximus sagittis id eget odio. Etiam eget lacus a ipsum porttitor volutpat. Quisque molestie tellus sem, vel imperdiet quam pharetra sit amet. In quis blandit risus, id vestibulum odio.", 
+                      "quoter": "Convallis , Music Critic at Convallis<br>Bibendum Daily"},
+                    {"message": "Sed in ipsum et mi venenatis vehicula eu eu purus. Etiam scelerisque, massa vitae convallis bibendum, justo lectus consectetur leo, scelerisque vulputate odio libero porta risus. Nullam non felis a tellus ultricies ultrices. Nunc maximus risus sit amet elit gravida molestie. Curabitur eget sagittis nisi. Morbi varius consectetur mi sed vestibulum. In dignissim lacus eget nisl pulvinar egestas non nec leo.", 
+                      "quoter": "Porta Risus,<br>Singer Songwriter, Director, Actor"},
+                    {"message": "Maecenas vitae nunc hendrerit, eleifend dolor a, faucibus elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis consectetur suscipit maximus. Etiam feugiat vehicula orci eget porta. Fusce tempus pulvinar blandit. Mauris in dictum quam, id aliquam libero. Nulla non leo iaculis, hendrerit massa sit amet, mollis nibh.", 
+                      "quoter": "Minimus &amp; Maximus"},
+                    {"message": "Nam eu faucibus nibh, id placerat urna. Praesent vitae placerat tortor. Duis eget sapien id diam vehicula vulputate sit amet vel metus. Maecenas ac metus ut odio pretium maximus. Aliquam suscipit sapien nulla, eu mattis dui semper vitae. Sed volutpat viverra laoreet. Mauris sit amet sem pharetra, aliquam nibh vel, consectetur est. Cras pellentesque vel leo quis accumsan. Donec molestie turpis ut metus vulputate scelerisque. Aenean venenatis nisl et aliquam ullamcorper.", 
+                      "quoter": "Laoreet &amp; Porttitor"}]
+  }, 
+  "media" : {
+    "2013" : [{"imageName": "1", "description": "Description here"}, 
+              {"imageName": "2", "description": ""}, 
+              {"imageName": "3", "description": "More description"}, 
+              {"imageName": "4", "description": ""}, 
+              {"imageName": "5", "description": ""}, 
+              {"imageName": "6", "description": "Description here"}, 
+              {"imageName": "7", "description": "Description here"} 
+          ],
+    "2012" : [{"imageName": "1", "description": "Description here"}, 
+              {"imageName": "2", "description": ""}, 
+              {"imageName": "3", "description": "More description"}, 
+              {"imageName": "4", "description": ""}, 
+              {"imageName": "5", "description": "Description here"} 
+          ], 
+    "2011" : [{"imageName": "1", "description": "Description here"}, 
+              {"imageName": "2", "description": "More description"}, 
+              {"imageName": "3", "description": ""}, 
+              {"imageName": "4", "description": ""} 
+          ]
+  }, 
+  "album" : {
+    "1": {
+      "title": "Adventure Capital",
+      "assets-folder": "adventure-capital",
+      "image-count": 3,
+      "youtube-id": "ScMzIvxBSi4",
+      "other-album-link": "2",
+      "buy-album-link": "#buyAdventureCapital",
+      "description-content": {
+        "ENG": {
+          "title": "Adventure Capital",
+          "released-date": "Released in August 2014", 
+          "description-left": "Quisque id risus non elit laoreet porttitor a id dolor. Donec eu ornare nunc, sed tempor tellus. Cras euismod, urna vehicula consectetur dictum, est risus venenatis felis, quis aliquet leo eros quis nibh. Integer leo odio, tempor id dictum maximus, facilisis ut leo. Vivamus tincidunt convallis massa, vel mollis leo. Quisque bibendum sagittis nisl ut pharetra. Mauris ornare, ante in placerat eleifend, velit ligula iaculis urna, ac imperdiet eros orci quis lacus. Nulla euismod pellentesque tortor quis facilisis. Phasellus odio purus, vulputate at sem nec, tristique consequat lectus. Pellentesque cursus felis nulla, at placerat tortor tincidunt venenatis. Fusce semper diam in arcu laoreet, a molestie lacus tristique. Integer id odio tortor. Aenean sed mi vitae nisl porttitor dignissim. Maecenas a varius nisl. Integer posuere odio at felis mattis, accumsan consectetur magna tempor.", 
+          "description-right": "<i>Phasellus vel venenatis nisi,<br>Sed venenatis arcu,<br>Sed ac molestie neque,<br>Fusce posuere in metus eget varius.<br><br>Phasellus eget arcu ultricies,<br>Commodo tellus ac,<br>Pulvinar elit,<br>Aenean sed venenatis nisi.</i>"
+        }
+      },
+      "song-list": [
+        { 
+          "title-en": "Vivamus lacinia pharetra nulla", 
+          "title-zh": "", 
+          "track-file": "track-01"
+        },
+        { 
+          "title-en": "Id fringilla justo posuere eget", 
+          "title-zh": "", 
+          "track-file": "track-02"
+        },
+        { 
+          "title-en": "In hac habitasse platea dictumst", 
+          "title-zh": "", 
+          "track-file": "track-03"
+        },
+        { 
+          "title-en": "Cras eu tincidunt erat, in tempus quam", 
+          "title-zh": "", 
+          "track-file": "track-04"
+        },
+        { 
+          "title-en": "Donec ultricies a ligula id efficitur", 
+          "title-zh": "", 
+          "track-file": "track-05"
+        },
+        { 
+          "title-en": "Cras pellentesque purus", 
+          "title-zh": "", 
+          "track-file": "track-06"
+        }  
+      ]
+    }, 
+    "2": {
+      "title": "Village Voice",
+      "assets-folder": "village-voice",
+      "image-count": 4,
+      "youtube-id": "RH3i7qONrT4",
+      "other-album-link": "1",
+      "buy-album-link": "#buyVillageVoice",
+      "description-content": {
+        "ENG": {
+          "title": "Village Voice", 
+          "released-date": "Released in November 2016", 
+          "description-left": "<i>Mauris rutrum, felis id commodo aliquet.</i><br><br>Nibh orci feugiat augue, nec bibendum urna ipsum nec turpis. Nunc posuere erat arcu, eget iaculis orci sagittis eget. Curabitur ac massa quis velit feugiat porta lobortis vel ante. Quisque erat ante, commodo eget suscipit eget, varius id lectus. Etiam vehicula scelerisque tincidunt. Phasellus ac venenatis lectus. Aliquam sodales feugiat auctor. Sed feugiat urna vitae justo hendrerit, at maximus sem ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et sem sit amet urna venenatis cursus. Ut tincidunt risus at blandit efficitur. Vestibulum ultricies quam quis sem mattis semper. Phasellus eu porta velit, ac vulputate dolor. Quisque posuere tellus at arcu laoreet varius eu sed tortor.", 
+          "description-right": "<i>Donec ullamcorper vehicula auctor.<br><br>Nunc scelerisque dapibus neque a viverra.<br><br>Phasellus ut viverra turpis.<br><br>Cras quis venenatis massa.<br><br>Nunc vitae dictum leo. Suspendisse at turpis id elit feugiat dignissim sit amet vel massa.<br><br>Integer odio mauris, rutrum sed ipsum vitae, iaculis tempor dui. Proin mattis fermentum sapien, sed volutpat diam iaculis a.<br><br>Quisque sed quam lectus.</i>"
+        },
+        "中文": {
+          "title": "辰胭", 
+          "released-date": "Released in November 2016", 
+          "description-left": "<i>施氏食獅史, 石室詩士施氏, 嗜獅, 誓食十獅.</i><br><br>氏時時適市視獅. 十時, 適十獅適市. 是時, 適施氏適是市. 氏視是十獅, 恃矢勢, 使是十獅逝世. 氏拾是十獅屍, 適石室. 石室濕, 氏使侍拭石室. 石室拭, 氏始試食十獅屍. 食時, 始識十獅屍, 實十石獅屍. 試釋是事.<br><br>扁擔長, 板凳寬, 扁擔比板凳長, 板凳比扁擔寬<br>扁擔綁在了板凳上, 板凳不讓扁擔綁在板凳上.<br><br>鳥島是島﹐ 鳥島有鳥. 鳥島的鳥多得數不清了.<br>要想到鳥島﹐ 一定要愛鳥. 你不愛小鳥﹐ 就別到鳥島.", 
+          "description-right": "<i>十是十<br><br>十四是十四<br><br>四十是四十<br><br>四十四是四十四<br><br>四十四隻石獅子是死的</i>"
+        }
+      },
+      "song-list": [
+        { 
+          "title-en": "Quis ex condimentum blandit", 
+          "title-zh": "", 
+          "track-file": "track-01"
+        },
+        { 
+          "title-en": "Quisque ultricies at diam eu blandit", 
+          "title-zh": "", 
+          "track-file": "track-02"
+        },
+        { 
+          "title-en": "In malesuada, mauris ac mollis dictum", 
+          "title-zh": "", 
+          "track-file": "track-03"
+        },
+        { 
+          "title-en": "Lorem urna sodales sapien", 
+          "title-zh": "", 
+          "track-file": "track-04"
+        },
+        { 
+          "title-en": "In ullamcorper diam nunc venenatis ex", 
+          "title-zh": "", 
+          "track-file": "track-05"
+        },
+        { 
+          "title-en": "Vivamus at lectus nisi", 
+          "title-zh": "", 
+          "track-file": "track-06"
+        }  
+      ]
+    }
+  }
+}

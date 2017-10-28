@@ -1,0 +1,10 @@
+To add image to gallery:
+
+1. Upload thumbnail into this folder: /assets/gallery/
+   <filename.jpg>
+
+2. Upload large image
+   file type must be the same, and filename is the same as thumbnail plus "-large"
+   <filename-large.jpg>
+
+3. The rest will be automatic.
